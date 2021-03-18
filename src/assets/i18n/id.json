@@ -253,11 +253,7 @@
     "responses": "tanggapan",
     "soon": "segera",
     "views": "tampilan",
-    "Share": "Bagikan",
-    "Url-Copied": "Url disalin",
-    "Download": "Unduh",
-    "Downloaded": "Telah diunduh",
-    "Save-in-phone": "Simpan di telepon"
+    "Chat": "Obrolan"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -614,10 +610,7 @@
     "y-h-to-accept-the-tou": "Anda harus menerima syarat dan ketentuan penggunaan",
     "y-h-to-delete-yr-page-or-group-before": "Anda harus menghapus halaman atau grup Anda sebelumnya",
     "y-have-to-be-friend": "kamu harus berteman",
-    "you-hav-to-upgrad-a-manager-before-leave": "Anda harus mempromosikan seorang manajer sebelum keluar dari grup",
-    "Date-cannot-be-in-the-past": "Tanggal rilis tidak boleh di masa lalu",
-    "You-cannot-add-yourself": "Anda tidak dapat menambahkan diri Anda sendiri",
-    "T-content-does-not-exist-anymore": "Konten ini sudah tidak ada"
+    "you-hav-to-upgrad-a-manager-before-leave": "Anda harus mempromosikan seorang manajer sebelum keluar dari grup"
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Foto sudah diterima",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Pengguna dalam daftar ini tidak akan dapat melihat profil Anda.",
       "btn-followers": "Sediakan tombol \"ikuti\"",
       "btn-friend": "Sediakan tombol permintaan pertemanan",
-      "h-can-b-yr-description": "Anda bisa memberi deskripsi"
+      "h-can-b-yr-description": "Anda bisa memberi deskripsi",
+      "theme": "tema",
+      "theme-description": "Silakan pilih tema",
+      "theme-select": "Pilih sebuah tema"
     },
     "verified": {
       "Already-certified": "Sudah bersertifikat",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "Administrasi akan memverifikasi konten secepat mungkin",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Ini akan menyebabkan seluruh proyek dihapus, apakah Anda yakin?",
     "T-operation-is-irreversible": "Operasi ini tidak dapat diubah",
-    "this-user-will-be-": "Pengguna ini sekarang akan menjadi",
-    "A-y-s-to-unfollow-t-profile": "Yakin ingin berhenti mengikuti profil ini?"
+    "this-user-will-be-": "Pengguna ini sekarang akan menjadi"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Peringatan. Pastikan Anda memiliki alamat yang benar"
@@ -1409,11 +1404,7 @@
       "World-fusion": "Fusi dunia",
       "Worldbeat": "Worldbeat",
       "Yacht-rock": "Batu yacht",
-      "Others": "Lainnya",
-      "Flamenco": "Flamenco",
-      "Rock": "Batu",
-      "Reggae": "Reggae",
-      "Country": "Negara"
+      "Others": "Lainnya"
     }
   },
   "WIINS-TUBE": {

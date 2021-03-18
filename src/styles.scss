@@ -1,6 +1,11 @@
 // Font Awesome
 @import "~font-awesome/css/font-awesome.css";
 
+// Bootstrap Dark
+@import "~bootswatch/dist/cyborg/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/cyborg/bootswatch";
+
 // Bootstrap Wiins
 @import 'src/assets/scss/custom/functions';
 @import 'src/assets/scss/custom/variables';
@@ -24,3 +29,4 @@
 
 // Angular Differences
 @import "src/assets/scss/angular-differences/angular-differences";
+

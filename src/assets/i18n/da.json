@@ -253,11 +253,7 @@
     "Towards-an-infinite-space": "Mod et uendeligt rum",
     "Hello": "Hej",
     "Publication": "Offentliggørelse",
-    "Share": "Del",
-    "Url-Copied": "URL kopieret",
-    "Download": "Hent",
-    "Downloaded": "Downloadet",
-    "Save-in-phone": "Gem i telefonen"
+    "Chat": "Chat"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -614,10 +610,7 @@
     "T-min-is-1$": "Minimumet er 1 $",
     "Missing-informations": "Manglende information",
     "Account_desactivated": "Konto deaktiveret",
-    "Y-dont-have-a-conversation-yet": "Du har ikke en samtale endnu.",
-    "Date-cannot-be-in-the-past": "Udgivelsesdatoen kan ikke være tidligere",
-    "You-cannot-add-yourself": "Du kan ikke tilføje dig selv",
-    "T-content-does-not-exist-anymore": "Dette indhold findes ikke længere"
+    "Y-dont-have-a-conversation-yet": "Du har ikke en samtale endnu."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Billedet er modtaget",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Brugere på denne liste kan ikke se din profil.",
       "btn-followers": "Gør knappen \"følg\" tilgængelig",
       "btn-friend": "Gør venneanmodningsknappen tilgængelig",
-      "h-can-b-yr-description": "Du kan sætte en beskrivelse"
+      "h-can-b-yr-description": "Du kan sætte en beskrivelse",
+      "theme": "Tema",
+      "theme-description": "Vælg et tema",
+      "theme-select": "Vælge et tema"
     },
     "verified": {
       "Already-certified": "Allerede certificeret",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "Administration vil kontrollere indhold så hurtigt som muligt",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Dette vil medføre, at hele projektet slettes, er du sikker?",
     "T-operation-is-irreversible": "Denne handling er irreversibel",
-    "this-user-will-be-": "Denne bruger vil nu være",
-    "A-y-s-to-unfollow-t-profile": "Er du sikker på at følge denne profie op?"
+    "this-user-will-be-": "Denne bruger vil nu være"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Advarsel. Sørg for, at du har den rigtige adresse"
@@ -1409,11 +1404,7 @@
       "World-fusion": "Verdensfusion",
       "Worldbeat": "Verdensslag",
       "Yacht-rock": "Yacht rock",
-      "Others": "Andre",
-      "Flamenco": "Flamenco",
-      "Rock": "Klippe",
-      "Reggae": "Reggae",
-      "Country": "Land"
+      "Others": "Andre"
     }
   },
   "WIINS-TUBE": {

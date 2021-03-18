@@ -253,11 +253,7 @@
     "responses": "freagraí",
     "soon": "go luath",
     "views": "tuairimí",
-    "Share": "Comhroinn",
-    "Url-Copied": "Cóipeáladh Url",
-    "Download": "Íoslódáil",
-    "Downloaded": "Íoslódáilte",
-    "Save-in-phone": "Sábháil ar an bhfón"
+    "Chat": "Comhrá"
   },
   "COUNTRY": {
     "AD": "Andóra",
@@ -614,10 +610,7 @@
     "y-h-to-accept-the-tou": "Caithfidh tú glacadh leis na téarmaí agus coinníollacha úsáide",
     "y-h-to-delete-yr-page-or-group-before": "Caithfidh tú do leathanaigh nó grúpaí a scriosadh roimhe seo",
     "y-have-to-be-friend": "caithfidh gur cairde tú",
-    "you-hav-to-upgrad-a-manager-before-leave": "Caithfidh tú bainisteoir a chur chun cinn sula bhfágfaidh tú an grúpa",
-    "Date-cannot-be-in-the-past": "Ní féidir an dáta scaoilte a bheith ann roimhe seo",
-    "You-cannot-add-yourself": "Ní féidir leat tú féin a chur leis",
-    "T-content-does-not-exist-anymore": "Níl an t-ábhar seo ann níos mó"
+    "you-hav-to-upgrad-a-manager-before-leave": "Caithfidh tú bainisteoir a chur chun cinn sula bhfágfaidh tú an grúpa"
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Faightear an grianghraf",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Ní bheidh úsáideoirí ar an liosta seo in ann do phróifíl a fheiceáil.",
       "btn-followers": "Cuir an cnaipe \"lean\" ar fáil",
       "btn-friend": "Cuir an cnaipe iarratais ar chara ar fáil",
-      "h-can-b-yr-description": "Is féidir leat tuairisc a chur"
+      "h-can-b-yr-description": "Is féidir leat tuairisc a chur",
+      "theme": "téama",
+      "theme-description": "Roghnaigh téama le do thoil",
+      "theme-select": "Roghnaigh téama"
     },
     "verified": {
       "Already-certified": "Deimhnithe cheana féin",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "Fíoróidh an riarachán ábhar a luaithe is féidir",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Cuirfidh sé seo faoi deara an tionscadal iomlán a scriosadh, an bhfuil tú cinnte?",
     "T-operation-is-irreversible": "Tá an oibríocht seo dochúlaithe",
-    "this-user-will-be-": "Beidh an t-úsáideoir seo anois",
-    "A-y-s-to-unfollow-t-profile": "An bhfuil tú cinnte an profie seo a nochtadh?"
+    "this-user-will-be-": "Beidh an t-úsáideoir seo anois"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Rabhadh. Déan cinnte go bhfuil an seoladh ceart agat"
@@ -1409,11 +1404,7 @@
       "World-fusion": "Comhleá domhanda",
       "Worldbeat": "Buille Domhanda",
       "Yacht-rock": "Carraig luamh",
-      "Others": "Daoine eile",
-      "Flamenco": "Flamenco",
-      "Rock": "Carraig",
-      "Reggae": "Reggae",
-      "Country": "Tír"
+      "Others": "Daoine eile"
     }
   },
   "WIINS-TUBE": {

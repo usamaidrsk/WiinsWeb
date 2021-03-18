@@ -253,11 +253,7 @@
     "Towards-an-infinite-space": "एक असीम स्थान तर्फ",
     "Hello": "नमस्कार",
     "Publication": "प्रकाशन",
-    "Share": "सेयर गर्नुहोस्",
-    "Url-Copied": "युआरएल प्रतिलिपि गरियो",
-    "Download": "डाउनलोड गर्नुहोस्",
-    "Downloaded": "डाउनलोड गरियो",
-    "Save-in-phone": "फोनमा बचत गर्नुहोस्"
+    "Chat": "कुराकानी"
   },
   "COUNTRY": {
     "AD": "अन्डोरा",
@@ -614,10 +610,7 @@
     "T-min-is-1$": "न्यूनतम १ $ हो",
     "Missing-informations": "हराइरहेका सूचनाहरू",
     "Account_desactivated": "खाता निष्क्रिय गरियो",
-    "Y-dont-have-a-conversation-yet": "तपाईंसँग अहिलेसम्म कुराकानी छैन।",
-    "Date-cannot-be-in-the-past": "विमोचन मिति विगतमा हुन सक्दैन",
-    "You-cannot-add-yourself": "तपाईं आफैलाई थप्न सक्नुहुन्न",
-    "T-content-does-not-exist-anymore": "यो सामग्री अब अवस्थित छैन"
+    "Y-dont-have-a-conversation-yet": "तपाईंसँग अहिलेसम्म कुराकानी छैन।"
   },
   "FEED-PUBLICATION": {
     "Picture-received": "फोटो प्राप्त भयो",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "यस सूचीमा प्रयोगकर्ताहरूले तपाईंको प्रोफाइल हेर्न सक्नेछैनन्।",
       "btn-followers": "\"अनुसरण गर्नुहोस्\" बटन उपलब्ध गर्नुहोस्",
       "btn-friend": "मित्र अनुरोध बटन उपलब्ध गराउनुहोस्",
-      "h-can-b-yr-description": "तपाईं एक वर्णन राख्न सक्नुहुन्छ"
+      "h-can-b-yr-description": "तपाईं एक वर्णन राख्न सक्नुहुन्छ",
+      "theme": "विषयवस्तु",
+      "theme-description": "कृपया एउटा विषयवस्तु छनौट गर्नुहोस्",
+      "theme-select": "एक विषयवस्तु चयन गर्नुहोस्"
     },
     "verified": {
       "Already-certified": "पहिले नै प्रमाणित",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "प्रशासनले सकेसम्म चाँडो सामग्री प्रमाणित गर्नेछ",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "यसले सम्पूर्ण परियोजना मेटिने बनाउँदछ, के तपाइँ निश्चित हुनुहुन्छ?",
     "T-operation-is-irreversible": "यो अपरेसन अपरिवर्तनीय छ",
-    "this-user-will-be-": "यो प्रयोगकर्ता अब हुनेछ",
-    "A-y-s-to-unfollow-t-profile": "के तपाई पक्का यो प्रोफाइ अनपलो गर्न निश्चित हुनुहुन्छ?"
+    "this-user-will-be-": "यो प्रयोगकर्ता अब हुनेछ"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "चेतावनी। निश्चित गर्नुहोस् कि तपाईंसँग सही ठेगाना छ"
@@ -1409,11 +1404,7 @@
       "World-fusion": "विश्व संलयन",
       "Worldbeat": "Worldbeat",
       "Yacht-rock": "याट रक",
-      "Others": "अन्य",
-      "Flamenco": "फ्लेमेन्को",
-      "Rock": "Rock",
-      "Reggae": "रेगे",
-      "Country": "देश"
+      "Others": "अन्य"
     }
   },
   "WIINS-TUBE": {

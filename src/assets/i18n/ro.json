@@ -253,11 +253,7 @@
     "Towards-an-infinite-space": "Spre un spațiu infinit",
     "Hello": "Salut",
     "Publication": "Publicare",
-    "Share": "Acțiune",
-    "Url-Copied": "Adresa URL a fost copiată",
-    "Download": "Descarca",
-    "Downloaded": "Descărcat",
-    "Save-in-phone": "Salvați în telefon"
+    "Chat": "Chat"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -614,10 +610,7 @@
     "T-min-is-1$": "Minimul este de 1 $",
     "Missing-informations": "Informații lipsă",
     "Account_desactivated": "Contul este dezactivat",
-    "Y-dont-have-a-conversation-yet": "Nu aveți încă o conversație.",
-    "Date-cannot-be-in-the-past": "Data lansării nu poate fi trecută",
-    "You-cannot-add-yourself": "Nu te poți adăuga singur",
-    "T-content-does-not-exist-anymore": "Acest conținut nu mai există"
+    "Y-dont-have-a-conversation-yet": "Nu aveți încă o conversație."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Fotografia este primită",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Utilizatorii din această listă nu vă vor putea vedea profilul.",
       "btn-followers": "Faceți disponibil butonul „urmați”",
       "btn-friend": "Faceți disponibil butonul de solicitare a prietenilor",
-      "h-can-b-yr-description": "Puteți pune o descriere"
+      "h-can-b-yr-description": "Puteți pune o descriere",
+      "theme": "Tema",
+      "theme-description": "Alegeți o temă",
+      "theme-select": "Selectarea unei teme"
     },
     "verified": {
       "Already-certified": "Deja certificat",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "Administrația va verifica conținutul cât mai curând posibil",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Acest lucru va face ca întregul proiect să fie șters, sunteți sigur?",
     "T-operation-is-irreversible": "Această operațiune este ireversibilă",
-    "this-user-will-be-": "Acest utilizator va fi acum",
-    "A-y-s-to-unfollow-t-profile": "Sunteți sigur că anulați urmărirea acestui profil?"
+    "this-user-will-be-": "Acest utilizator va fi acum"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Avertizare. Asigurați-vă că aveți adresa corectă"
@@ -1409,11 +1404,7 @@
       "World-fusion": "Fuziune mondială",
       "Worldbeat": "Bătăile lumii",
       "Yacht-rock": "Yacht rock",
-      "Others": "Alții",
-      "Flamenco": "Flamenco",
-      "Rock": "Rock",
-      "Reggae": "Reggae",
-      "Country": "Țară"
+      "Others": "Alții"
     }
   },
   "WIINS-TUBE": {

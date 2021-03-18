@@ -16,9 +16,11 @@
 }
 
 .container-list {
-  overflow-x: scroll;
-  display: -webkit-box;
-  white-space: nowrap;
+  overflow-x: auto;
+
+  .container-list::-webkit-scrollbar {
+    width: 0;
+  }
 
   .card {
     display: inline-block;

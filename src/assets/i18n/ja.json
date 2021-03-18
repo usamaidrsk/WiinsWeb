@@ -211,11 +211,7 @@
     "Towards-an-infinite-space": "無限の空間に向けて",
     "Hello": "こんにちは",
     "Publication": "出版物",
-    "Share": "シェア",
-    "Url-Copied": "URLをコピーしました",
-    "Download": "ダウンロード",
-    "Downloaded": "ダウンロード済み",
-    "Save-in-phone": "電話で保存"
+    "Chat": "チャット"
   },
   "COUNTRY": {
     "AD": "アンドラ",
@@ -572,10 +568,7 @@
     "T-min-is-1$": "最低額は1ドルです",
     "Missing-informations": "不足している情報",
     "Account_desactivated": "アカウントが非アクティブ化されました",
-    "Y-dont-have-a-conversation-yet": "まだ会話はありません。",
-    "Date-cannot-be-in-the-past": "リリース日は過去にすることはできません",
-    "You-cannot-add-yourself": "自分を追加することはできません",
-    "T-content-does-not-exist-anymore": "このコンテンツはもう存在しません"
+    "Y-dont-have-a-conversation-yet": "まだ会話はありません。"
   },
   "FEED-PUBLICATION": {
     "Picture-received": "写真を受け取りました",
@@ -856,7 +849,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "このリストのユーザーはプロフィールを見ることができなくなります。",
       "btn-followers": "「フォロー」ボタンを使用可能にする",
       "btn-friend": "フレンドリクエストボタンを使用可能にする",
-      "h-can-b-yr-description": "説明を入力できます。"
+      "h-can-b-yr-description": "説明を入力できます。",
+      "theme": "テーマ",
+      "theme-description": "テーマを選択してください",
+      "theme-select": "テーマを選択する"
     },
     "verified": {
       "This-feature-requires-verification-to-use.": "この機能を使用するには、検証が必要です。",
@@ -982,8 +978,7 @@
     "T-administration-w-verify-t-content-asap": "管理は、できるだけ早く含まれていることを確認します",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "これにより、プロジェクト全体が削除されます。",
     "T-operation-is-irreversible": "この操作は元に戻せません",
-    "this-user-will-be-": "このユーザーは現在",
-    "A-y-s-to-unfollow-t-profile": "このprofieのフォローを解除してもよろしいですか？"
+    "this-user-will-be-": "このユーザーは現在"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "警告。正しいアドレスを持っていることを確認する"
@@ -1352,11 +1347,7 @@
       "World-fusion": "世界の融合",
       "Worldbeat": "ワールドビート",
       "Yacht-rock": "ヨットロック",
-      "Others": "その他",
-      "Flamenco": "フラメンコ",
-      "Rock": "岩",
-      "Reggae": "レゲエ",
-      "Country": "国"
+      "Others": "その他"
     }
   },
   "WIINS-TUBE": {

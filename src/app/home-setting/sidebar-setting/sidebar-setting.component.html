@@ -5,7 +5,7 @@
     <ul class="nav">
       <!-- Nav Button -->
       <li routerLinkActive="active" *ngFor="let menuItem of menuItems" class="nav-item">
-        <a [routerLink]="[menuItem.path]" class="py-3">
+        <a [routerLink]="[menuItem.path]" class="py-3 active-setting">
           <i class="now-ui-icons {{menuItem.icon}}"></i>
           <p>{{ menuItem.title | translate }}</p>
         </a>

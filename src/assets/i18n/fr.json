@@ -849,7 +849,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Les utilisateurs présents dans cette liste ne pourront pas voir votre profil",
       "btn-followers": "Rendre disponible le bouton \"suivre\"",
       "btn-friend": "Rendre disponible le bouton de demande en ami",
-      "h-can-b-yr-description": "Vous pouvez vous mettre une description"
+      "h-can-b-yr-description": "Vous pouvez vous mettre une description",
+      "theme": "Theme",
+      "theme-description": "Veuillez choisir un thème",
+      "theme-select": "Sélectionnez un thème"
     },
     "verified": {
       "This-feature-requires-verification-to-use.": "Cette fonctionnalité nécessite une vérification pour être utilisée",

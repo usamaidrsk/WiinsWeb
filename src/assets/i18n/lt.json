@@ -253,11 +253,7 @@
     "Towards-an-infinite-space": "Begalinės erdvės link",
     "Hello": "Sveiki",
     "Publication": "Publikacija",
-    "Share": "Dalintis",
-    "Url-Copied": "URL nukopijuotas",
-    "Download": "parsisiųsti",
-    "Downloaded": "Atsisiųsta",
-    "Save-in-phone": "Išsaugokite telefone"
+    "Chat": "Pokalbių"
   },
   "COUNTRY": {
     "AD": "Andora",
@@ -614,10 +610,7 @@
     "T-min-is-1$": "Minimalus dydis yra 1 $",
     "Missing-informations": "Trūksta informacijos",
     "Account_desactivated": "Paskyra atjungta",
-    "Y-dont-have-a-conversation-yet": "Jūs dar neturite pokalbio.",
-    "Date-cannot-be-in-the-past": "Išleidimo data negali būti praeityje",
-    "You-cannot-add-yourself": "Jūs negalite pridėti savęs",
-    "T-content-does-not-exist-anymore": "Šio turinio nebėra"
+    "Y-dont-have-a-conversation-yet": "Jūs dar neturite pokalbio."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Nuotrauka gauta",
@@ -910,7 +903,10 @@
       "T-people-w-not-be-able-to-access-your-profile-D": "Šiame sąraše esantys vartotojai negalės matyti jūsų profilio.",
       "btn-followers": "Padarykite prieinamą mygtuką „sekti“",
       "btn-friend": "Padarykite draugo užklausos mygtuką prieinamą",
-      "h-can-b-yr-description": "Galite įdėti aprašą"
+      "h-can-b-yr-description": "Galite įdėti aprašą",
+      "theme": "Tema",
+      "theme-description": "Pasirinkite temą",
+      "theme-select": "Pasirinkite temą"
     },
     "verified": {
       "Already-certified": "Jau sertifikuota",
@@ -1039,8 +1035,7 @@
     "T-administration-w-verify-t-content-asap": "Administracija patikrins turinį kuo greičiau",
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Dėl to visas projektas bus ištrintas, ar tikrai?",
     "T-operation-is-irreversible": "Ši operacija yra negrįžtama",
-    "this-user-will-be-": "Šis vartotojas dabar bus",
-    "A-y-s-to-unfollow-t-profile": "Ar tikrai nebenorite sekti šio profi?"
+    "this-user-will-be-": "Šis vartotojas dabar bus"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Įspėjimas. Įsitikinkite, kad turite teisingą adresą"
@@ -1409,11 +1404,7 @@
       "World-fusion": "Pasaulio sintezė",
       "Worldbeat": "Pasaulio ritmas",
       "Yacht-rock": "Jachtos uola",
-      "Others": "Kiti",
-      "Flamenco": "Flamenko",
-      "Rock": "Rokas",
-      "Reggae": "Regis",
-      "Country": "Šalis"
+      "Others": "Kiti"
     }
   },
   "WIINS-TUBE": {

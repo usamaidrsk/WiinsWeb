@@ -1,43 +1,53 @@
-<div class="chat-lists">
-  <div class="header-section pa-0 sticky">
-    <div>
-      <div class="input-group col-md-9 mx-auto my-1 searchBar">
-        <input [formControl]="searchField" type="text" class="form-control input-lg"
-               [placeholder]="'MINI-CHAT.text-a-friend'| translate" />
-        <span class="input-group-btn my-auto">
-          <span class="addChat">
-            +
-          </span>
-        </span>
+<div class="m-0 p-0">
+  <div class="container header-section mt-2 w-100">
+    <div class="row justify-content-around searchBar">
+      <div class="col-8 offset-2 mr-0">
+        <input
+          [formControl]="searchField" type="text"
+          class="form-control input-lg mr-0"
+          placeholder="Search friend / Create chat group"
+        />
+      </div>
+      <div class="col-2 ml-0">
+        <button class="addChat ml-0">
+          <i class="fa fa-plus ml-0"></i>
+        </button>
       </div>
     </div>
-    <div class="mt-4 pr-0 ml-4 pb-0 mb-0">
-      <div class="chat-categories mx-auto pb-0 mb-0">
-        <span class="col-md-4 mx-auto cat-option">Best</span>
-        <span class="col-md-4 mx-auto cat-option">Second</span>
-        <span class="col-md-4 mx-auto requests cat-option">0 Requests</span>
-      </div>
+    <div class="row justify-content-between chat-categories mt-3">
+      <div class="col-3 cat-option pb-3">Best</div>
+      <div class="col-3 cat-option pb-3">Second</div>
+      <div class="col-3 cat-option pb-3 requests">0 Requests</div>
     </div>
   </div>
-  <ul class="px-0 pt-0 pb-0 mb-0 mx-o ml-4 list-user">
-    <li class="row chat-card pt-4" *ngFor="let i of [1,2,3,4,5,6,7]">
-      <div class="col-md-2 container-avatar">
-        <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-8.jpg" alt="avatar"
-             class="avatar rounded-circle">
-      </div>
-      <div class="col-md-10 row text-sm chat-body">
-        <div class="col-md-12 chat-head">
-          <span class="chat-name">John Doe</span>
-          <span class="chat-time">Now</span>
-        </div>
-        <div class="col-md-12 pt-1">
-          <div class="chart-message">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-            molestiae quas vel sint commodi repudiandae consequuntur Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-            molestiae quas vel sint commodi repudiandae consequuntur
+  <div class="container-fluid">
+    <div class="row justify-content-around list-user">
+      <div class="col-12 chat-card" *ngFor="let i of [1,2,3,4,5,6,7]">
+        <div class="d-flex flex-direction-row justify-content-center mx-4 my-2">
+          <div class="col-3 container-avatar">
+            <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-8.jpg" alt="avatar" class="avatar rounded-circle">
+          </div>
+<!--          <div class="col-3 container-divided-picture" *ngIf="i === 3">-->
+<!--            <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-8.jpg" alt="avatar" class="avatar rounded-circle">-->
+<!--            <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-8.jpg" alt="avatar" class="avatar rounded-circle">-->
+<!--            <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-8.jpg" alt="avatar" class="avatar rounded-circle">-->
+<!--          </div>-->
+          <div class="ml-1">
+            <div class="d-flex flex-direction-row">
+              <div class="chat-name">John Doe</div>
+              <div class="chat-time ml-auto">Now</div>
+            </div>
+            <div class="chat-message ml-0 my-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+              molestiae quas vel sint commodi repudiandae consequuntur Lorem ipsum dolor sit amet consectetur
+              adipisicing
+              elit. Maxime mollitia,
+              molestiae quas vel sint commodi repudiandae consequuntur
+            </div>
           </div>
         </div>
       </div>
-    </li>
-  </ul>
+    </div>
+  </div>
 </div>
+

@@ -1,35 +1,38 @@
+.chat-room {
+  padding: 0;
+  margin: 0;
+}
+
 .header-conversation {
-  border-bottom: 1px solid #e7e7e7;
-  height: 70px;
+  margin-left: .02em;
+  border-bottom: 1px solid #eeeeee;
 
-  p {
-    font-size: 1.2rem;
-  }
-
-  i {
-    cursor: pointer;
-  }
-
-  .container-btn-header {
-    .fa-cogs {
-      font-size: 22px;
-      color: #68adf4;
+  padding-bottom: 1em;
+    .chat-name {
+      font-weight: bold;
+      font-size: 1.2em;
     }
 
-    .fa-bell-slash {
-      color: #f4687b;
-      font-size: 20px;
-    }
-  }
+    .container-btn-header {
+      .fa-cogs {
+        font-size: 22px;
+        color: #68adf4;
+      }
 
-  .dropdownSetting {
-    i {
-      color: #a8a8a8;
+      .fa-bell-slash {
+        color: #f4687b;
+        font-size: 20px;
+      }
     }
 
-    span {
-      color: #6c757d;
-    }
+    .dropdownSetting {
+      i {
+        color: #a8a8a8;
+      }
+
+      span {
+        color: #6c757d;
+      }
   }
 
 }
@@ -44,15 +47,18 @@
     0 9px 46px 8px rgba(0, 0, 0, .12);
 }
 
-.container-adv {
-  .title {
-    color: #4A90E2;
-  }
+.dropdown-button {
+  background-color: unset;
+  border: 0;
 }
 
-.trend-conversation {
-  height: calc(100% - 169px);  
-  overflow: auto;
+.chat-messages {
+  width: inherit;
+  height: 73vh;
+  overflow: hidden;
+  overflow-y: scroll;
+  scroll-margin: 2em;
+  scroll-behavior: smooth;
 
   img {
     width: 40px;
@@ -62,50 +68,44 @@
     object-fit: cover;
   }
 
-  .content-text p {
-    display: inline-block;
-  }
-
-  .content-text:hover {
-    .btn-delete-message i {
-      display: block;
-    }
+  .auto-delete-message {
+    background-color: #eeeeee;
+    border-radius: .8em;
   }
 
   .message-received {
+    border: .01em solid #00a9ce;
+    border-radius: .8em;
+
     img {
       bottom: 0;
       position: absolute;
       right: 0;
     }
-
-    p {
-      border-radius: 20px 20px 20px 5px;
-      background: #eee;
-    }
   }
 
-  .message-sended {
-    .content-text {
-      text-align: right;
-    }
+  .message-sent {
+    color: white;
+    background-color: #00a9ce;
+    border-radius: .8em;
 
     img {
       float: left;
     }
-
-    p {
-      border-radius: 20px 20px 5px 20px;
-      background: #3578e5;
-      color: white;
-      text-align: left;
-    }
   }
 }
 
+.container-adv {
+  .title {
+    color: #4A90E2;
+  }
+}
+
+
 .container-input {
-  border-top: 1px solid #e7e7e7;
-  height: 100px;
+  border-top: 1px solid #eeeeee;
+  padding-top: 1em;
+  padding-bottom: 1em;
 
   .button-footer i {
     padding: 18px;
@@ -114,17 +114,25 @@
     cursor: pointer;
   }
 
-  .message-box .message-input {
-    background: none;
-    border: none;
+  textarea {
+    border: .05em solid #eeeeee;
+    border-radius: 2em;
+    text-align: center;
+    padding-top: .5em;
+    font-size: .8em;
+    height: 3em;
     resize: none;
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 16px;
-    height: 24px;
-    margin: 0;
-    padding-right: 20px;
-    width: 265px;
-    color: #444;
+    color: black;
+  }
+
+  .message-inputs {
+    border: none;
+    background-color: unset;
+    //color: #eee;
+  }
+
+  .grouped-icon-inputs {
+    left: -4;
   }
 
   .message-submit {
@@ -144,16 +152,15 @@
 .container-avatar {
   transition: 0.5s;
   cursor: pointer;
-  position: relative;
+  margin: 0;
+  padding: 0;
 
   img {
     object-fit: cover;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     overflow: hidden;
-    border: white solid 2px;
-    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.175);
-    -webkit-box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.175);
+    border: white solid 1px;
   }
 
 }
